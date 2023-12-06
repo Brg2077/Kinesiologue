@@ -1,8 +1,8 @@
-# Kinesiologue
-Cabinet de kinésiologie à Genève
-https://www.berger-kinesiologue-geneve.ch/
-Venez découvrir mon cabinet de kinésiologie à Genève
-Thérapeute agréé ASCA et RME
+
+# Cabinet de kinésiologie à Genève
+Venez découvrir mon cabinet de Kinésiolgie à Genève
+
+https://www.berger-kinesiologue-geneve.ch
 
 Grâce au test musculaire, nous irons chercher et libérer les blocages entravant la libre circulation d'énergie dans votre corps. 
 
@@ -13,4 +13,5 @@ que votre corps retrouve son énergie et son bien-être​.
 Thérapie brève: Je vous accompagne jusqu'à ce que vous
 deveniez autonome pour gérer vos difficultés.
 
-Cedric Berger
+
+
